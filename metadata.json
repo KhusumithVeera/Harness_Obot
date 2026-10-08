@@ -1,0 +1,6 @@
+{
+  "name": "Harness",
+  "description": "Multi-model BYOK chat with grounded knowledge RAG, smart email drafting, and web search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
